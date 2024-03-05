@@ -5,7 +5,8 @@
 📱 +31 617 89 58 33
 🏠 Room no. 403 E, Kolej EFG, Kamycka 129, Praha – 165 00
 
-🔗 [LinkedIn](linkedin.com/in/gokul-ks) | 🌐 [GitHub](www.github.com/gokultcr) | ✍️ [Blog](shadowsofinternet.blogspot.com) | 📸 [Pexels](www.pexels.com/@gokul-ks)
+🔗 [LinkedIn](https://linkedin.com/in/gokul-ks) | 🌐 [GitHub](https://www.github.com/gokultcr) | ✍️ [Blog](https://shadowsofinternet.blogspot.com) | 📸 [Pexels](https://www.pexels.com/@gokul-ks)
+
 
 ## OBJECTIVE 🚀
 To excel in Artificial Intelligence by working with complete dedication and acquiring new skills. Highly interested in interdisciplinary research to provide solutions for unsolved problems.
@@ -17,7 +18,7 @@ Embarking on an exhilarating journey of knowledge acquisition and growth:
 🎓 **Doctor of Philosophy in Applied Geoinformatics and Remote Sensing in Forestry**
    - *Machine learning and Deep learning*
    - Faculty of Forestry and Wood Sciences, Czech University of Life Sciences, Prague, Czech Republic
-   - (Currently Pursuing)
+   - (Currently Pursuing) 
 
 🎓 **Master of Philosophy in Computer Science**
    - *E-Learning Analytics & Nature-Inspired Computing*
@@ -26,12 +27,12 @@ Embarking on an exhilarating journey of knowledge acquisition and growth:
 
 🎓 **Master of Science in Computer Science**
    - *Artificial Intelligence*
-   - Department of Computer Science, Central University of Kerala, India
+   - Department of Computer Science, Central University of Kerala, India (2016-2018)
    - First-class 74%
 
 🎓 **Bachelor of Science in Computer Science**
    - *Computer Science, Electronics, Mathematics*
-   - University of Calicut, India
+   - University of Calicut, India (2013-2016)
    - First-class 69%
 
 
