@@ -21,7 +21,7 @@ Embarking on an exhilarating journey of knowledge acquisition and growth:
 
 🎓 **Master of Philosophy in Computer Science**
    - *E-Learning Analytics & Nature-Inspired Computing*
-   - Department of Computer Science, Central University of Tamil Nadu, India
+   - Department of Computer Science, Central University of Tamil Nadu, India (2019 - 2021)
    - First-class 89%
 
 🎓 **Master of Science in Computer Science**
@@ -35,21 +35,43 @@ Embarking on an exhilarating journey of knowledge acquisition and growth:
    - First-class 69%
 
 
-## COURSES
-- Advanced Diploma in Graphic Designing
-  - Adobe & Government of Kerala, India
-  - B Grade
+## 🎓 COURSES
 
-## VOLUNTEER EXPERIENCE & LEADERSHIP
-- 3DForEcoTech (Cost): Working group member (2022-Present)
-- Kamos (FLD, CZU): Leader of New Ph.D. Students in Faculty of Forestry and Wood Sciences, CZU (2023-Present)
-- Volunteer: Blue Cross of India (2019-2022)
-- Alumni Executive Member: Department of Computer Science, Central University of Kerala (2020-Present)
-- President: Association of Students in Computational Intelligence (ASCI) (2018), Department of Computer Science, Central University of Kerala
-- Executive Member: Association of Students in Computational Intelligence (ASCI) (2017), Department of Computer Science, Central University of Kerala
+Diving into the realm of continuous learning:
 
-## HONORS
-- INSPIRE AWARD (2010), DEPARTMENT OF SCIENCE AND TECHNOLOGY, GOVERNMENT OF INDIA
+🎨 **Advanced Diploma in Graphic Designing**
+   - *Adobe & Government of Kerala, India*
+   - Achieved a commendable B Grade
+
+## 🌟 VOLUNTEER EXPERIENCE & LEADERSHIP
+
+Shaping the future through service and leadership:
+
+🌱 **3DForEcoTech (Cost)**
+   - *Working group member (2022-Present)*
+
+🌿 **Kamos (FLD, CZU)**
+   - *Leading New Ph.D. Students in Faculty of Forestry and Wood Sciences, CZU (2023-Present)*
+
+🤝 **Blue Cross of India**
+   - *Volunteer (2019-2022)*
+
+🎓 **Alumni Executive Member**
+   - *Department of Computer Science, Central University of Kerala (2020-Present)*
+
+👑 **President**
+   - *Association of Students in Computational Intelligence (ASCI) (2018), Department of Computer Science, Central University of Kerala*
+
+🤝 **Executive Member**
+   - *Association of Students in Computational Intelligence (ASCI) (2017), Department of Computer Science, Central University of Kerala*
+
+## 🏆 HONORS
+
+Celebrating recognition and excellence:
+
+🏅 **INSPIRE AWARD (2010)**
+   - *DEPARTMENT OF SCIENCE AND TECHNOLOGY, GOVERNMENT OF INDIA*
+
 
 ## ACHIEVEMENTS & AWARDS
 - ITC CONFERENCE GRANT, 3DForEcoTech; FOR SILVILASER ABSTRACT (2023)
