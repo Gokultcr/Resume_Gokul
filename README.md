@@ -2,34 +2,38 @@
 
 # GOKUL K S
 📧 gokulkscientist@gmail.com 
-📱 +420 607 422 311 
+📱 +31 617 89 58 33
 🏠 Room no. 403 E, Kolej EFG, Kamycka 129, Praha – 165 00
 
 🔗 [LinkedIn](linkedin.com/in/gokul-ks) | 🌐 [GitHub](www.github.com/gokultcr) | ✍️ [Blog](shadowsofinternet.blogspot.com) | 📸 [Pexels](www.pexels.com/@gokul-ks)
 
-## OBJECTIVE
+## OBJECTIVE 🚀
 To excel in Artificial Intelligence by working with complete dedication and acquiring new skills. Highly interested in interdisciplinary research to provide solutions for unsolved problems.
 
-## EDUCATION
-- **Doctor of Philosophy in Applied Geoinformatics and Remote Sensing in Forestry**
-  - *Machine learning and Deep learning*
-  - Faculty of Forestry and Wood Sciences, Czech University of Life Sciences, Prague, Czech Republic
-  - (Pursuing)
+## 📚 EDUCATION
 
-- **Master of Philosophy in Computer Science**
-  - *E-Learning Analytics & Nature-Inspired Computing*
-  - Department of Computer Science, Central University of Tamil Nadu, India
-  - First-class 89%
+Embarking on an exhilarating journey of knowledge acquisition and growth:
 
-- **Master of Science in Computer Science**
-  - *Artificial Intelligence*
-  - Department of Computer Science, Central University of Kerala, India
-  - First-class 74%
+🎓 **Doctor of Philosophy in Applied Geoinformatics and Remote Sensing in Forestry**
+   - *Machine learning and Deep learning*
+   - Faculty of Forestry and Wood Sciences, Czech University of Life Sciences, Prague, Czech Republic
+   - (Currently Pursuing)
 
-- **Bachelor of Science in Computer Science**
-  - *Computer Science, Electronics, Mathematics*
-  - University of Calicut, India
-  - First-class 69%
+🎓 **Master of Philosophy in Computer Science**
+   - *E-Learning Analytics & Nature-Inspired Computing*
+   - Department of Computer Science, Central University of Tamil Nadu, India
+   - First-class 89%
+
+🎓 **Master of Science in Computer Science**
+   - *Artificial Intelligence*
+   - Department of Computer Science, Central University of Kerala, India
+   - First-class 74%
+
+🎓 **Bachelor of Science in Computer Science**
+   - *Computer Science, Electronics, Mathematics*
+   - University of Calicut, India
+   - First-class 69%
+
 
 ## COURSES
 - Advanced Diploma in Graphic Designing
