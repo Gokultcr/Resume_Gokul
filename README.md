@@ -150,7 +150,7 @@ Championing ethical practices and community service:
 Sharing groundbreaking research and insights:
 
 🖼️ **Poster (International): Enhancing Bark Classification with Boosted Support Vector Machines**
-   - *Silvilaser London, September 6-8, UCL London*
+   - *Silvilaser London, September 6-8, UCL London* [Link](https://doi.org/10.5281/zenodo.10446837)
 
 📝 **Conference Paper (International): Machine learning technique for close range tree species classification**
    - *UNECE/FAO Team of Specialists on Forest Communication- Forest Communicators’ Network annual meeting and workshop, Prague 20-22 June 2023*
