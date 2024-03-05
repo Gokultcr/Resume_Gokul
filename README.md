@@ -145,7 +145,7 @@ Championing ethical practices and community service:
    - *Contributed to Cybercrime Investigation*
 
 
-## 🌟 PRESENTED & UNDER REVIEW
+## 🌟 PUBLICATIONS
 
 Sharing groundbreaking research and insights:
 
