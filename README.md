@@ -1,4 +1,4 @@
-# Resume_Gokul
+# CV
 
 # GOKUL K S
 📧 gokulkscientist@gmail.com 
