@@ -1,4 +1,4 @@
-# CV
+# Resume
 
 # GOKUL K S
 📧 gokulkscientist@gmail.com 
@@ -153,13 +153,13 @@ Sharing groundbreaking research and insights:
    - *Silvilaser London, September 6-8, UCL London* [Link](https://doi.org/10.5281/zenodo.10446837)
 
 📝 **Conference Paper (International): Machine learning technique for close range tree species classification**
-   - *UNECE/FAO Team of Specialists on Forest Communication- Forest Communicators’ Network annual meeting and workshop, Prague 20-22 June 2023*
+   - *UNECE/FAO Team of Specialists on Forest Communication- Forest Communicators’ Network annual meeting and workshop, Prague 20-22 June 2023* [Link](https://doi.org/10.5281/zenodo.10458204)
 
 📄 **Pre-print: A Comparative Analysis of Machine Learning Algorithms for Tree Species Recognition**
-   - *EGU General Assembly 2023, Vienna, Austria*
+   - *EGU General Assembly 2023, Vienna, Austria* [Link](https://meetingorganizer.copernicus.org/EGU23/EGU23-14332.html)
 
 🖼️ **Poster (International): TREE SPECIES CLASSIFICATION FROM RGB IMAGES BASED ON TREE BARK**
-   - *3DForEcoTech CONFERENCE, PRAGUE*
+   - *3DForEcoTech CONFERENCE, PRAGUE* [Link](https://doi.org/10.5281/zenodo.10447108)
 
 📝 **Conference Paper (International): NATURAL INSPIRED RECOMMENDER SYSTEM BASED ON STUDENT PERFORMANCE**
    - *INTERNATIONAL E-CONFERENCE ON ‘INNOVATIONS IN INFORMATION TECHNOLOGY’, BHARATHIYAR UNIVERSITY, TAMIL NADU, 2020*
@@ -168,7 +168,7 @@ Sharing groundbreaking research and insights:
    - *INTERNATIONAL CONFERENCE ON ‘DATA SCIENCE AND INFORMATION ECOSYSTEM’21’, MADURAI KAMARAJ UNIVERSITY, TAMIL NADU, 2021*
 
 📰 **Journal Paper: IMPROVED TYPE 2 DIABETES PREDICTION USING A STACKED ENSEMBLE CLASSIFIER**
-   - *MALAYA JOURNAL OF MATHEMATIK, VOL.S, NO.1, 600-605*
+   - *MALAYA JOURNAL OF MATHEMATIK, VOL.S, NO.1, 600-605*  [Link](https://doi.org/10.26637/MJMS2101/0137)
 
 ## 🚀 PARTICIPATED
 
