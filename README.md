@@ -48,7 +48,7 @@ Diving into the realm of continuous learning:
 
 Shaping the future through service and leadership:
 
-🌱 **3DForEcoTech (Cost)**
+🌱 **3DForEcoTech (COST ACTION CA20118)**
    - *Working group member (2022-Present)*
 
 🌿 **Kamos (FLD, CZU)**
